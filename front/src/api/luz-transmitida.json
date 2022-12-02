@@ -1,0 +1,91 @@
+{
+  "title": "Guia de Minerais Transparentes ao Microscópio Petrográfico",
+  "subtitle": "O Mineral:",
+  "items": [
+    {
+      "option": "É isótropo ou fracamente anisótropo, de relevo baixo",
+      "table": "01"
+    },
+    {
+      "option": "É isótropo ou fracamente anisótropo, de relevo alto",
+      "table": "02"
+    },
+    {
+      "option": "Possui extinção paralela e mosqueada",
+      "table": "03"
+    },
+    {
+      "option": "Nas seções basais tem duas clivagens que se cruzam",
+      "table": "04"
+    },
+    {
+      "option": "Ao giro da platina MUDA SEU RELEVO de baixo para médio/alto: É um carbonato",
+      "table": null,
+      "description": "Não é possível diferenciar entre si ao microscópio petrográfico a calcita, a dolomita, a siderita, a magnesita e a rhodocrosita"
+    },
+    {
+      "option": "É incolor e a NC possui cores de interferência anômalas, que não constam na Tabela de Michel-Levy",
+      "table": "20"
+    },
+    {
+      "option": "É incolor, possui relevo baixo ou médio, a NC possui cores de início de 1a ordem e é UNIAXIAL",
+      "table": "05"
+    },
+    {
+      "option": "É incolor, possui relevo baixo ou médio, a NC possui cores de início de 1a ordem e é BIAXIAL",
+      "table": "06"
+    },
+    {
+      "option": "É incolor, possui relevo baixo ou médio, a NC possui cores superiores ao início de 1a ordem",
+      "table": "07"
+    },
+    {
+      "option": "É incolor, possui relevo médio a alto, a NC possui cores de início de 1a ordem",
+      "table": "19"
+    },
+    {
+      "option": "É incolor, possui relevo médio a alto, a NC possui cores superiores ao início de 1a ordem",
+      "table": "08"
+    },
+    {
+      "option": "É colorido e NÃO apresenta pleocroísmo ou possui pleocroísmo quase imperceptível",
+      "table": "09"
+    },
+    {
+      "option": "É pleocróico em cores verde pálidas",
+      "table": "10"
+    },
+    {
+      "option": "É pleocróico em cores verde intensas, podem ser amarronzadas ou amareladas",
+      "table": "11"
+    },
+    {
+      "option": "É pleocróico em cores dominantemente vermelhas, podem ser amarronzadas",
+      "table": "12"
+    },
+    {
+      "option": "É pleocróico em cores dominantemente marrons, podem ser avermelhadas",
+      "table": "13"
+    },
+    {
+      "option": "É pleocróico em cores dominantemente amarelas, podem ser alaranjadas",
+      "table": "14"
+    },
+    {
+      "option": "É pleocróico em cores dominantemente laranjas, podem ser amareladas",
+      "table": "15"
+    },
+    {
+      "option": "É pleocróico em cores dominantemente azuis",
+      "table": "16"
+    },
+    {
+      "option": "É pleocróico em cores rosa",
+      "table": "17"
+    },
+    {
+      "option": "Pleocroísmos mais raros de várias cores",
+      "table": "18"
+    }
+  ]
+}
